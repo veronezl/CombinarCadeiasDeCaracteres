@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CombinarCadeiasDeCaracteres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1cac9be8a966b121eaddb4f7ac52856ce5ff28d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CombinarCadeiasDeCaracteres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CombinarCadeiasDeCaracteres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

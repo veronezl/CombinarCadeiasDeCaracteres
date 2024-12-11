@@ -12,3 +12,4 @@
 /home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/CombinarCadeiasDeCaracteres.pdb
 /home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/CombinarCadeiasDeCaracteres.genruntimeconfig.cache
 /home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/ref/CombinarCadeiasDeCaracteres.dll
+/home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/CombinarCadeiasDeCaracteres.sourcelink.json
