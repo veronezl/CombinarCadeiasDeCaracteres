@@ -1,0 +1,14 @@
+/home/lucas/CombinarCadeiasDeCaracteres/bin/Debug/net8.0/CombinarCadeiasDeCaracteres
+/home/lucas/CombinarCadeiasDeCaracteres/bin/Debug/net8.0/CombinarCadeiasDeCaracteres.deps.json
+/home/lucas/CombinarCadeiasDeCaracteres/bin/Debug/net8.0/CombinarCadeiasDeCaracteres.runtimeconfig.json
+/home/lucas/CombinarCadeiasDeCaracteres/bin/Debug/net8.0/CombinarCadeiasDeCaracteres.dll
+/home/lucas/CombinarCadeiasDeCaracteres/bin/Debug/net8.0/CombinarCadeiasDeCaracteres.pdb
+/home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/CombinarCadeiasDeCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/CombinarCadeiasDeCaracteres.AssemblyInfoInputs.cache
+/home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/CombinarCadeiasDeCaracteres.AssemblyInfo.cs
+/home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/CombinarCadeiasDeCaracteres.csproj.CoreCompileInputs.cache
+/home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/CombinarCadeiasDeCaracteres.dll
+/home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/refint/CombinarCadeiasDeCaracteres.dll
+/home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/CombinarCadeiasDeCaracteres.pdb
+/home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/CombinarCadeiasDeCaracteres.genruntimeconfig.cache
+/home/lucas/CombinarCadeiasDeCaracteres/obj/Debug/net8.0/ref/CombinarCadeiasDeCaracteres.dll
